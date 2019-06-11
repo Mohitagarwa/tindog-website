@@ -1,0 +1,163 @@
+
+ #title
+  {
+    background-color: #ff4c68;
+
+  }
+  h1
+ {
+    font-family: 'Montserrat-Black';
+    font-size: 4rem;
+    line-height: 1.5;
+    color: #fff;
+ }
+  .container-fluid
+  {
+    padding: 3% 15%;
+  }
+  .rot
+  {
+    transform: rotate(25deg);
+  width: 60%;
+  margin-left: 30%;
+
+  }
+  .navbar-brand
+  {
+    font-size: 2.5rem;
+  }
+  .download-button
+  {
+     margin: 5% 3% 5% 0;
+
+  }
+   .navbar
+   {
+     padding-bottom: 4.5rem;
+   }
+   .nav-link
+   {
+     font-size: 1.2rem;
+     font-family: "Montserrat";
+     transition: 0.6s ease;
+
+   }
+   .nav-item
+   {
+     padding: 0 18px;
+   }
+
+   #features
+   {
+     padding: 7% 14%;
+   }
+   .features-box
+   {
+     text-align: center;
+
+  }
+  h3
+  {
+    font-family: "Montserrat-Bold";
+     font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  p
+  {
+    color: grey;
+  }
+  #testimonials
+  {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: orange;
+  }
+  h2
+  {
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+    line-height: 1.5;
+    color: #fff;
+  }
+  .testimonial-image
+  {
+    width: 100px;
+    border-radius: 100px;
+  }
+  #press
+  {
+    background-color: orange;
+  }
+  .press-image
+  {
+    margin-bottom: 1.5rem;
+    width: 19rem;
+    text-align: center;
+}
+
+  .features-icon
+  {
+    font-size: 3rem;
+    color: orange;
+  }
+  #Pricing{
+    padding:  15%;
+    text-align: center;
+
+  }
+  .pricing-top
+  {
+    text-align: center;
+  }
+  @media (max-width: 1028px)
+  {
+    #title
+    {
+      text-align: center;
+    }
+    .title-image
+    {
+      position: static;
+      transform: rotate(0);
+    }
+
+  }
+  .cta-div
+  {
+    text-align: center;
+    padding: 5% 5%;
+
+  }
+  .cta-button
+  {
+  margin: 2% 2%;
+  }
+  #footer
+  {
+    text-align: center;
+    color: grey;
+    height: 5%;
+    font-family: "ubuntu";
+    margin: 5% 5% 3% 5%;
+    
+  }
+  .card-header
+  {
+    margin-top: 5%;
+  }
+  .pricing-heading
+  {
+    margin-top: 5%;
+  }
+  .ic
+  {
+    padding: 1%;
+  }
+  .price-heading
+  {
+    color: #000;
+  }
+  #cta
+  {
+    background-color: #ff4c68;
+  }
